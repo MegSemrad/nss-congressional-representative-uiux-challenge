@@ -1,0 +1,16 @@
+.name {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.representative__image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    margin-bottom: 15px; 
+}
+
+.representative__district, .representative__political__affiliation {
+    text-align: center;
+}
